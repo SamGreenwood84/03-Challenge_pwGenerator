@@ -31,3 +31,10 @@ Had to adjust slightly to function:
 ```java
 var specialChars = "!@#$%^&*()-_=+[]{}|;:'\",.<>/?`~";
 ```
+Code Reference: [Codepal.ai](https://codepal.ai/code-generator/query/8Qd07kte/password-guessing-code) 
+C:\Users\sam\Bootcamp\challenges\03-Challenge_pwGenerator\assets\images\codepal.ai.png
+
+**Changes made: **
+
+#1-Separated Characters to allow user to choose a minimum of one type they would like to use
+#2-
